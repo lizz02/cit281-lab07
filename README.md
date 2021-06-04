@@ -1,5 +1,6 @@
 ## Techniques Used 
 
+- Making organizations on github
 - Non-web server Node.js JavaScript code
     - Functions
     - Classes
